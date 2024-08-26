@@ -21,7 +21,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof_pick.jpg"
+  avatar           : "prof_pic.png"
   name             : "Melanie Rowland"
   pronouns         : # example: "she/her"  
   bio              : "Final Year Astronomy PhD Candidate & NASA FINESST Fellow"
