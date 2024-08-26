@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Melanie J. Rowland"
 title_separator          : "-"
 name                     : #&name "Your Name"
-description              : &description "Final Year Astronomy PhD Candidate at the University of Texas at Austin and NASA FINESST Fellow"
+description              : &description ""
 url                      : https://melrows.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -24,9 +24,9 @@ author:
   avatar           : "prof_pick.jpg"
   name             : "Melanie Rowland"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Final Year Astronomy PhD Candidate & NASA FINESST Fellow"
   location         : #"Earth"
-  employer         : #"Red Brick University"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
   email            : "mrowland@utexas.edu" 
 
