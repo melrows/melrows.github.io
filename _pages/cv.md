@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+cv_pdf: Rowland_CV_2024.pdf
 author_profile: true
 redirect_from:
   - /resume
