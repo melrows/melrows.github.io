@@ -3,8 +3,6 @@ title: "Toward Robust Atmospheric Retrieval on Cloudy L Dwarfs: the Impact of Th
 excerpt: "We performed a suite of retrievals on self-consistent Sonora Bobcat spectra to show how different pressure-temperature profile parameterizations and uniform-with-pressure chemical abundance profiles can bias retrieved parameters. We developed a non-uniform abundance profile parameterization and identify specific gases and effective temperatures where such a parameterization may be needed.<br/><img src='/images/Rowland2023_Fig6.png'>"
 collection: portfolio
 ---
-permalink: https://ui.adsabs.harvard.edu/abs/2023ApJ...947....6R/abstract
-
 In [this paper]([https://ui.adsabs.harvard.edu/abs/2023ApJ...947....6R/abstract]) (published in The Astrophysical Journal on April 10, 2023), we performed a suite of retrievals on self-consistent synthetic Sonora Bobcat spectra to show how different pressure-temperature profile parameterizations and uniform-with-pressure chemical abundance profiles can bias retrieved parameters. We developed a non-uniform abundance profile parameterization and identify specific gases and effective temperatures where such a parameterization may be needed.
 
 <br/><img src='/images/Rowland2023_Fig6.png'>"
