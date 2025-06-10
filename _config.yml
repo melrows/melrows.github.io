@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Melanie J. Rowland"
+title                    : "Dr. Melanie J. Rowland, PhD"
 title_separator          : "-"
 name                     : #&name "Your Name"
 description              : &description ""
@@ -22,9 +22,9 @@ repository               :
 author:
   # Biographic information
   avatar           : "prof_pic.png"
-  name             : "Melanie Rowland"
+  name             : "Dr. Melanie Rowland, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Final Year PhD Candidate in Astronomy & NASA FINESST Fellow"
+  bio              : "Astronomer & NASA FINESST Fellow"
   location         : #"Earth"
   employer         : "University of Texas at Austin"
   uri              : # URL
